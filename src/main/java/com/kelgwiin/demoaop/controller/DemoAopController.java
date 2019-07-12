@@ -2,7 +2,6 @@ package com.kelgwiin.demoaop.controller;
 
 import com.kelgwiin.demoaop.model.Person;
 import com.kelgwiin.demoaop.service.api.DemoService;
-import io.reactivex.Single;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
